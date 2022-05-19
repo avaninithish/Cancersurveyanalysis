@@ -45,7 +45,8 @@ The Projects Features Detection of Breast Cancer Using Machine Learning. It has 
 
 The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as...
 sklearn.datasets.load_breast_cancer
-...also csv file of data has been externally loaded in the repo :)
+...also csv file of data has been externally loaded in the repo 
+python is the prograamming language usedd for coding
 
 RESULTS
 
